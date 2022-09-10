@@ -1,0 +1,14 @@
+* {
+	font-family: Outfit, serif;
+	font-size: 15px;
+	background-color: hsl(212, 45%, 89%)
+}
+
+.main-container {
+	width: 1440px;
+	height: 375px;
+	border: 1px solid black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
