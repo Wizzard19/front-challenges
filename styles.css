@@ -26,9 +26,9 @@ html, body {
 }
 
 main {
-  padding: 12px;
+  padding: 16px;
+  margin: 1rem;
   border-radius: 12px;
-  width: 100%;
   max-width: 320px;
   background-color: var(--white);
   box-shadow: 0 0 36px rgba(0,0,0,0.2);
